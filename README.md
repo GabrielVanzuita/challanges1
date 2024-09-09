@@ -1,5 +1,5 @@
 
-# Desafioos resolvidos
+# Desafios resolvidos
 
 Este repositório contém uma série de desafios de programação resolvidos e documentados em **português**. Cada solução apresenta a lógica aplicada, juntamente com a explicação passo a passo para ajudar no entendimento dos problemas e suas resoluções.
 
