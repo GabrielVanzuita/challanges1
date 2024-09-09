@@ -1,0 +1,6 @@
+O data_frame utilizado para realização do desafio 3 foi retirado do Kaggle e é
+referente às vendas de uma máquina de vendas de café. Encontra-se dentro dessa
+pasta com o nome "sales.csv" (formato original) e sales_json.json (obtido após uso do
+pipeline contido nesta mesma pasta para adequar-se ao formato exigido).
+
+(https://www.kaggle.com/datasets/ihelon/coffee-sales)
